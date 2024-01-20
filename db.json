@@ -1,9 +1,9 @@
 {
-    "features": [
+    "features": {
         "policies": true,
         "claims": true,
         "users": true,
         "imageOn": true,
         "imageOff": false
-    ]
+    }
 }
